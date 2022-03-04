@@ -213,7 +213,7 @@ html {
   text-align: center;
   width: 50px;
   height: 40px;
-  text-decoration;
+  text-decoration: none;
 }
 
 .fa:hover {
